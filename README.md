@@ -20,5 +20,5 @@ This is a simple C++ program that searches for a special number in a square matr
 ### Using g++:
 
 ```bash
-g++ -o waldo waldo.cpp
+g++ -o find-waldo waldo.cpp
 ./waldo.cpp OR ./a.exe
